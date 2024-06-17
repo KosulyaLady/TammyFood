@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+
+
+:root {
+
+  --bg-coral: rgb(255, 251, 243);
+
+  --text-normal-fs : 14px;
+  --text-middle-fs: 20px;
+
+  --text-color-grey : rgb(102, 112, 133);
+
+  --text-normal-ff: Inter;
+  --text-link-ff: Segoe UI;
+
+  --size-icon-start : 13px;
+  
+  }
+
+
+
+@font-face {
+    font-family: Segoe UI;
+    font-weight: 700;
+    src: url(./font-family/segoe-ui-this/segoeuithibd.ttf);
+}
+@font-face {
+    font-family: Segoe UI;
+    font-weight: 400;
+    src: url(./font-family/segoe-ui-this/segoeuithisz.ttf);
+}
